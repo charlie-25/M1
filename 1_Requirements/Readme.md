@@ -56,7 +56,10 @@ This classic game contribute to the children's development growth in numerous wa
 | HLR_3 | strategy development|
 
 | LLR | DESCRIPTION |
-| ------------- | -----
+| ------------- | -----------|
+| LLR_1 | game play |
+| LLR_2 | hand eye cordination |
+| LLR_3 | understanding |
 
 
 

@@ -49,6 +49,14 @@ This classic game contribute to the children's development growth in numerous wa
 
 # SWOT Analysis
 
+| HLR | DESCRIPTION |
+| --------------- | --------------- | 
+| HLR_1 | development growth| | 
+| HLR_2 | problem solving | 
+| HLR_3 | strategy development|
+
+| LLR | DESCRIPTION |
+| ------------- | -----
 
 
 

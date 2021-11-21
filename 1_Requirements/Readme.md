@@ -29,15 +29,15 @@ yet to done
 
 ## 4W and 1H
 
-*WHAT*
+### *WHAT*
 
 Tic-tac is a game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
-*WHY*
+### *WHY*
 
 This classic game contribute to the children's development growth in numerous ways include their understanding of predictability, problem solving, spatial reasoning, hand eye coordination, turn taking and stratezing.
 
-*HOW*
+### *HOW*
 
 - The game is to be played between two people .
 
@@ -49,11 +49,17 @@ This classic game contribute to the children's development growth in numerous wa
 
 # SWOT Analysis
 
+yet to done
+
+## HLR
+
 | HLR | DESCRIPTION |
 | --------------- | --------------- | 
 | HLR_1 | development growth| | 
 | HLR_2 | problem solving | 
 | HLR_3 | strategy development|
+
+## LLR
 
 | LLR | DESCRIPTION |
 | ------------- | -----------|
